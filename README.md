@@ -1,2 +1,17 @@
-# Terracotta_Warriors_color
-兵马俑上色
+# 项目名称
+
+兵马俑上色计划
+
+# 项目历程
+
+2019.10.21   启动项目
+
+# 项目贡献
+
+
+# 项目支持
+
+如果你想贡献此项目请扫描下面二维码：
+
+[](https://i.loli.net/2019/09/17/zitwDTMAfXQ2aoq.png)
+
